@@ -1,0 +1,43 @@
+body {
+  background-color: rgba(209, 255, 255, 0.327);
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+}
+div {
+  height: 276px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  border-radius: 10%;
+}
+
+.text {
+  display: flex;
+  font-size: 40px;
+  justify-content: space-between;
+}
+
+.tiramisu {
+  margin-left: 240px;
+}
+
+.juice {
+  margin-left: 45px;
+}
+
+.salad {
+  margin-right: 225px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}

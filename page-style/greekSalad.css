@@ -1,0 +1,38 @@
+* {
+  width: 950px;
+  margin-inline: auto;
+  font-size: 24px;
+}
+
+body {
+  background-color: rgba(209, 255, 255, 0.327);
+}
+img {
+  height: 600px;
+  border-radius: 20px;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  background-color: rgb(203, 104, 104);
+  border-radius: 10px;
+  color: #fff;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+div {
+  text-align: center;
+  margin: 50px auto;
+}
+a {
+  padding: 20px;
+  color: white;
+  background-color: rgb(243, 185, 185);
+  text-decoration: none;
+  border-radius: 20px;
+  font-weight: 800;
+}
